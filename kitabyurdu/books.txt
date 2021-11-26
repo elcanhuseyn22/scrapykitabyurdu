@@ -1,0 +1,500 @@
+№: 1
+Book name:Dune
+Author   : Frank Herbert
+Publisher:İTHAKİ YAYINLARI
+------------------------
+№: 2
+Book name:Gece Yarısı Kütüphanesi
+Author   : Matt Haig
+Publisher:DOMİNGO YAYINEVİ
+------------------------
+№: 3
+Book name:Ben, Kirke
+Author   : Madeline Miller
+Publisher:İTHAKİ YAYINLARI
+------------------------
+№: 4
+Book name:Hayvan Çiftliği (Ciltsiz)
+Author   : George Orwell
+Publisher:CAN YAYINLARI
+------------------------
+№: 5
+Book name:Şeker Portakalı (Ciltsiz)
+Author   : Jose Mauro De Vasconcelos
+Publisher:CAN YAYINLARI
+------------------------
+№: 6
+Book name:Dune Mesihi
+Author   : Frank Herbert
+Publisher:İTHAKİ YAYINLARI
+------------------------
+№: 7
+Book name:Kehribar Geçidi (Özel Baskı Bez Cilt)
+Author   :Prof. Dr. Nazan Bekiroğlu
+Publisher:TİMAŞ YAYINLARI
+------------------------
+№: 8
+Book name:Kayıp Tanrılar Ülkesi
+Author   : Ahmet Ümit
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 9
+Book name:Körlük
+Author   : Jose Saramago
+Publisher:KIRMIZI KEDİ YAYINEVİ
+------------------------
+№: 10
+Book name:Okçu'nun Yolu
+Author   : Paulo Coelho
+Publisher:CAN YAYINLARI
+------------------------
+№: 11
+Book name:Dune Çocukları
+Author   : Frank Herbert
+Publisher:İTHAKİ YAYINLARI
+------------------------
+№: 12
+Book name:Simyacı (Ciltsiz)
+Author   : Paulo Coelho
+Publisher:CAN YAYINLARI
+------------------------
+№: 13
+Book name:Cesur Yeni Dünya
+Author   : Aldous Huxley
+Publisher:İTHAKİ YAYINLARI
+------------------------
+№: 14
+Book name:Fareler ve İnsanlar
+Author   : John Steinbeck
+Publisher:SEL YAYINCILIK
+------------------------
+№: 15
+Book name:Kürk Mantolu Madonna
+Author   : Sabahattin Ali
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 16
+Book name:Kırmızı Pazartesi
+Author   : Gabriel Garcia Marquez
+Publisher:CAN YAYINLARI
+------------------------
+№: 17
+Book name:Dune Tanrı İmparatoru
+Author   : Frank Herbert
+Publisher:İTHAKİ YAYINLARI
+------------------------
+№: 18
+Book name:Kehribar Geçidi
+Author   :Prof. Dr. Nazan Bekiroğlu
+Publisher:TİMAŞ YAYINLARI
+------------------------
+№: 19
+Book name:İçimizdeki Şeytan
+Author   : Sabahattin Ali
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 20
+Book name:Serenad (Karton Kapak)
+Author   : Zülfü Livaneli
+Publisher:DOĞAN KİTAP
+------------------------
+№: 21
+Book name:Fahrenheit 451
+Author   : Ray Bradbury
+Publisher:İTHAKİ YAYINLARI
+------------------------
+№: 22
+Book name:Dune Sapkınları
+Author   : Frank Herbert
+Publisher:İTHAKİ YAYINLARI
+------------------------
+№: 23
+Book name:Dune Rahibeler Meclisi
+Author   : Frank Herbert
+Publisher:İTHAKİ YAYINLARI
+------------------------
+№: 24
+Book name:İnce Memed 1
+Author   : Yaşar Kemal
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 25
+Book name:Aylak Adam
+Author   : Yusuf Atılgan
+Publisher:CAN YAYINLARI
+------------------------
+№: 26
+Book name:Zamir
+Author   : Hakan Günday
+Publisher:DOĞAN KİTAP
+------------------------
+№: 27
+Book name:Semerkant
+Author   : Amin Maalouf
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 28
+Book name:Veronika Ölmek İstiyor
+Author   : Paulo Coelho
+Publisher:CAN YAYINLARI
+------------------------
+№: 29
+Book name:Aşk ve Öbür Cinler
+Author   : Gabriel Garcia Marquez
+Publisher:CAN YAYINLARI
+------------------------
+№: 30
+Book name:Saatleri Ayarlama Enstitüsü
+Author   : Ahmet Hamdi Tanpınar
+Publisher:DERGAH YAYINLARI
+------------------------
+№: 31
+Book name:Anayurt Oteli
+Author   : Yusuf Atılgan
+Publisher:CAN YAYINLARI
+------------------------
+№: 32
+Book name:İnci
+Author   : John Steinbeck
+Publisher:SEL YAYINCILIK
+------------------------
+№: 33
+Book name:Yaşamak
+Author   : Yu Hua 
+Publisher:JAGUAR KİTAP
+------------------------
+№: 34
+Book name:Hayat Kaybettiğin Yerden Başlar
+Author   : Miraç Çağrı Aktaş
+Publisher:İNDİGO KİTAP
+------------------------
+№: 35
+Book name:Kuyucaklı Yusuf
+Author   : Sabahattin Ali
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 36
+Book name:İnce Memed 2
+Author   : Yaşar Kemal
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 37
+Book name:Gülün Adı (Ciltsiz)
+Author   : Umberto Eco
+Publisher:CAN YAYINLARI
+------------------------
+№: 38
+Book name:Kalk Yerine Yat
+Author   : Şermin Yaşar
+Publisher:DOĞAN KİTAP
+------------------------
+№: 39
+Book name:Sırça Köşk
+Author   : Sabahattin Ali
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 40
+Book name:Akhilleus’un Şarkısı
+Author   : Madeline Miller
+Publisher:İTHAKİ YAYINLARI
+------------------------
+№: 41
+Book name:Huzursuzluk
+Author   : Zülfü Livaneli
+Publisher:DOĞAN KİTAP
+------------------------
+№: 42
+Book name:Balıkçı ve Oğlu
+Author   : Zülfü Livaneli
+Publisher:İNKILAP KİTABEVİ
+------------------------
+№: 43
+Book name:Uğultulu Tepeler
+Author   : Emily Bronte
+Publisher:CAN YAYINLARI
+------------------------
+№: 44
+Book name:Masumiyet Müzesi
+Author   : Orhan Pamuk
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 45
+Book name:İnce Memed 3
+Author   : Yaşar Kemal
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 46
+Book name:İnce Memed 4
+Author   : Yaşar Kemal
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 47
+Book name:Çavdar Tarlasında Çocuklar
+Author   : J. D. Salinger
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 48
+Book name:Güneşi Uyandıralım
+Author   : Jose Mauro De Vasconcelos
+Publisher:CAN YAYINLARI
+------------------------
+№: 49
+Book name:1984
+Author   : George Orwell
+Publisher:CAN YAYINLARI
+------------------------
+№: 50
+Book name:Her Şey Eksik Her Şey Tamam 
+Author   : İrem Yaşar
+Publisher:KÜSURAT YAYINLARI
+------------------------
+№: 51
+Book name:Sineklerin Tanrısı (Karton Kapak)
+Author   : William Golding
+Publisher:TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+№: 52
+Book name:Bir Çöküşün Öyküsü
+Author   : Stefan Zweig
+Publisher:TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+№: 53
+Book name:Yüzyıllık Yalnızlık (Ciltsiz)
+Author   : Gabriel Garcia Marquez
+Publisher:CAN YAYINLARI
+------------------------
+№: 54
+Book name:Nietzsche Ağladığında
+Author   : Irvin D. Yalom
+Publisher:AYRINTI YAYINLARI
+------------------------
+№: 55
+Book name:Siddhartha (Ciltsiz)
+Author   : Hermann Hesse
+Publisher:CAN YAYINLARI
+------------------------
+№: 56
+Book name:Kardeşimin Hikayesi (Karton Kapak)
+Author   : Zülfü Livaneli
+Publisher:DOĞAN KİTAP
+------------------------
+№: 57
+Book name:Pia Mater
+Author   : Serkan Karaismailoğlu
+Publisher:ELMA YAYINEVİ
+------------------------
+№: 58
+Book name:İki Şehrin Hikayesi
+Author   : Charles Dickens
+Publisher:CAN YAYINLARI
+------------------------
+№: 59
+Book name:Bir Masalda İki Kral Olmaz
+Author   : Sacit Aslan
+Publisher:KIRMIZI KEDİ YAYINEVİ
+------------------------
+№: 60
+Book name:Efsun
+Author   : Selahattin Demirtaş
+Publisher:DİPNOT YAYINLARI
+------------------------
+№: 61
+Book name:Bin Dokuz Yüz Seksen Dört - 1984 
+Author   : George Orwell
+Publisher:KAPRA YAYINCILIK
+------------------------
+№: 62
+Book name:Veba Geceleri
+Author   : Orhan Pamuk
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 63
+Book name:Görmek
+Author   : Jose Saramago
+Publisher:KIRMIZI KEDİ YAYINEVİ
+------------------------
+№: 64
+Book name:Puslu Kıtalar Atlası
+Author   : İhsan Oktay Anar
+Publisher:İLETİŞİM YAYINLARI
+------------------------
+№: 65
+Book name:Değirmen
+Author   : Sabahattin Ali
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 66
+Book name:Hayat Hanım
+Author   : Ahmet Altan
+Publisher:EVEREST YAYINLARI
+------------------------
+№: 67
+Book name:Arachnoid Mater
+Author   : Serkan Karaismailoğlu
+Publisher:ELMA YAYINEVİ
+------------------------
+№: 68
+Book name:Hayati Dengeler
+Author   : Hayati İnanç
+Publisher:BABIALİ KÜLTÜR YAYINCILIĞI
+------------------------
+№: 69
+Book name:Uzun Hikaye
+Author   : Mustafa Kutlu
+Publisher:DERGAH YAYINLARI
+------------------------
+№: 70
+Book name:Bir İdam Mahkumunun Son Günü
+Author   : Victor Hugo
+Publisher:KARBON KİTAPLAR
+------------------------
+№: 71
+Book name:Son Ada
+Author   : Zülfü Livaneli
+Publisher:DOĞAN KİTAP
+------------------------
+№: 72
+Book name:Bilinmeyen Bir Kadının Mektubu (Karton Kapak)
+Author   : Stefan Zweig
+Publisher:TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+№: 73
+Book name:Sevgi Yukarıdan Gelir
+Author   : Hayati İnanç
+Publisher:PROFİL KİTAP
+------------------------
+№: 74
+Book name:Allah Cümlemizi Korusun
+Author   : Bekir Develi
+Publisher:PROFİL KİTAP
+------------------------
+№: 75
+Book name:Beş Şehir
+Author   : Ahmet Hamdi Tanpınar
+Publisher:DERGAH YAYINLARI
+------------------------
+№: 76
+Book name:Doğunun Limanları
+Author   : Amin Maalouf
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 77
+Book name:Ya Tahammül Ya Sefer
+Author   : Mustafa Kutlu
+Publisher:DERGAH YAYINLARI
+------------------------
+№: 78
+Book name:İnsan Nedir?
+Author   : Mark Twain
+Publisher:DEDALUS KİTAP
+------------------------
+№: 79
+Book name:Geç Kalan
+Author   : Tarık Tufan
+Publisher:DOĞAN KİTAP
+------------------------
+№: 80
+Book name:Kapak Kızı
+Author   : Ayfer Tunç
+Publisher:CAN YAYINLARI
+------------------------
+№: 81
+Book name:Martı Jonathan Livingston
+Author   : Richard Bach
+Publisher:EPSİLON YAYINEVİ
+------------------------
+№: 82
+Book name:Beyaz Zambaklar Ülkesinde  (Atatürk 'ün askerlere tavsiye ettiği kitap)
+Author   : Grigory Petrov
+Publisher:KARBON KİTAPLAR
+------------------------
+№: 83
+Book name:Bu Ülke
+Author   : Cemil Meriç
+Publisher:İLETİŞİM YAYINLARI
+------------------------
+№: 84
+Book name:Yeni Dünya
+Author   : Sabahattin Ali
+Publisher:YAPI KREDİ YAYINLARI
+------------------------
+№: 85
+Book name:Gazap Üzümleri
+Author   : John Steinbeck
+Publisher:İLETİŞİM YAYINLARI
+------------------------
+№: 86
+Book name:Beyaz Zambaklar Ülkesinde
+Author   : Grigory Petrov
+Publisher:KAPRA YAYINCILIK
+------------------------
+№: 87
+Book name:Birinci Tekil Şahıs
+Author   : Haruki Murakami
+Publisher:DOĞAN KİTAP
+------------------------
+№: 88
+Book name:Yabancı 
+Author   : Albert Camus
+Publisher:CAN YAYINLARI
+------------------------
+№: 89
+Book name:Şimdiki Çocuklar Harika
+Author   : Aziz Nesin
+Publisher:NESİN YAYINEVİ
+------------------------
+№: 90
+Book name:Fink
+Author   : Murat Menteş
+Publisher:ALFA YAYINLARI
+------------------------
+№: 91
+Book name:Yeşil Peri Gecesi
+Author   : Ayfer Tunç
+Publisher:CAN YAYINLARI
+------------------------
+№: 92
+Book name:Korku Çağında Çocuk Yetiştirmek
+Author   : Şeniz  Pamuk
+Publisher:VARLIK YAYINLARI
+------------------------
+№: 93
+Book name:Oh Ne Ala Memleket
+Author   : Şermin Yaşar
+Publisher:DOĞAN EGMONT ÇOCUK KİTAPLARI
+------------------------
+№: 94
+Book name:Huzur
+Author   : Ahmet Hamdi Tanpınar
+Publisher:DERGAH YAYINLARI
+------------------------
+№: 95
+Book name:Tutunamayanlar / Bütün Eserleri 1
+Author   : Oğuz Atay
+Publisher:İLETİŞİM YAYINLARI
+------------------------
+№: 96
+Book name:Seyir
+Author   : Piraye 
+Publisher:MONA
+------------------------
+№: 97
+Book name:Huzursuzluğun Kitabı
+Author   : Fernando Pessoa
+Publisher:CAN YAYINLARI
+------------------------
+№: 98
+Book name:Bülbülü Öldürmek
+Author   : Harper Lee
+Publisher:EPSİLON YAYINEVİ
+------------------------
+№: 99
+Book name:Satranç (Ciltsiz)
+Author   : Stefan Zweig
+Publisher:CAN YAYINLARI
+------------------------
+№: 100
+Book name:Sır
+Author   : Mustafa Kutlu
+Publisher:DERGAH YAYINLARI
+------------------------
